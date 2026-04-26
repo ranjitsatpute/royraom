@@ -7,19 +7,6 @@
 
 I am a passionate Mechatronics Engineer with hands-on experience in **robotics, UAV systems, CAD design, and simulation**. I enjoy solving real-world engineering problems by combining **mechanical design, programming, and AI technologies**.
 
-## 💼 Experience
-
-**🧪 Research Assistant – University of Siegen**
-
-* Designed and simulated a **Zephyr Robot** using Autodesk Inventor & Unity
-* Programmed robotic systems using **Python**
-* Delivered engineering designs aligned with **international standards**
-
-**✈️ Trainee Engineer – Cerebrospark Innovations**
-
-* Designed & developed **UAVs (Quadcopter, VTOL, Fixed-Wing)**
-* Performed **aerodynamic & structural analysis** (ANSYS, XFLR5)
-* Built prototypes using **3D printing, CNC, and electronics integration**
 
 ## 🛠️ Technical Skills
 
@@ -35,32 +22,6 @@ TensorFlow | PyTorch | OpenCV (Computer Vision) | Scikit-learn | Reinforcement L
 **Core Areas:**
 Robotics | UAV Systems | Embedded Systems | Sensors | AI & ML
 
-
-## 📌 Key Projects
-
-**🤖 Manipulator Robot (Pick & Place)**
-
-* Developed motion planning & **PID control (MATLAB)**
-* Integrated sensors for real-time interaction
-
-**🛩️ Fixed-Wing Drone**
-
-* Designed cost-efficient surveillance UAV
-* Performed airfoil analysis using **XFLR5**
-
-**🚁 VTOL Drone (Award-Winning Project)**
-
-* Hybrid drone with improved efficiency
-* 🏆 *Awarded Best Technology Application*
-* 📈 Commercially deployed product
-
-
-## 🌍 What I Bring
-
-✔ Strong **hands-on engineering skills**
-✔ Experience from **design → simulation → real-world testing**
-✔ Ability to work in **multidisciplinary teams**
-✔ Passion for **innovation in robotics and AI**
 
 ## 📫 Contact
 🔗 LinkedIn: linkedin.com/in/satputeranjitbhairavnath
